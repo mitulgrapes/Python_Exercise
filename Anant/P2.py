@@ -6,3 +6,6 @@ print(b, "type is", type(b))
 
 c = 'GrapesTech'
 print(c, "type is", type(c))
+
+d={"abc","def","hij"}
+print(d, "type is", type(d))
