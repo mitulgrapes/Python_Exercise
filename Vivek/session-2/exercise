@@ -1,0 +1,8 @@
+1) Store your personal information in variables and print it. (Fields: Firstname, Lastname, Email, Contact No, Age, Height)
+2) Create four variables with different type and print its data type
+3) Declare list with at least 10 items and print items from 3rd position to 7th position
+4) Create list with 5 names and sort it in descending order
+5) Create tuple with 10 items & print it
+6) Create tuple with 5 items & add other 2 new items and then print all items
+7) Create set with 3 items and remove & add any item
+8) Create dictionary with any items and print all values
